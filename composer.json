@@ -1,0 +1,20 @@
+{
+    "name": "yogiman/eloquent-demo",
+    "description": "This is an Eloquent demo.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yogiman",
+            "email": "xuyuji9000@163.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^5.4"
+    },
+    "autoload": {
+        "classmap": [
+            "models"
+        ]
+    }
+}
